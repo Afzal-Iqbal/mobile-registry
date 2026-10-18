@@ -17,8 +17,6 @@
 /types
 
 # Environment files
-.env
-.env.*
 !.env.example
 
 # Hardhat coverage reports
@@ -32,3 +30,4 @@
 
 # Vercel
 .vercel
+config.bat
