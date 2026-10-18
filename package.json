@@ -16,8 +16,10 @@
     "@nomicfoundation/hardhat-ignition": "^3.1.9",
     "@nomicfoundation/hardhat-toolbox-viem": "^5.0.7",
     "@types/node": "^22.20.5",
+    "dotenv": "^8.2.0",
     "forge-std": "github:foundry-rs/forge-std#v1.16.2",
     "hardhat": "^3.20.0",
+    "node-fetch": "^3.3.2",
     "typescript": "~6.0.3",
     "viem": "^2.57.7"
   }
